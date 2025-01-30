@@ -1,7 +1,6 @@
-
 ## 📚 Spis treści
 
-1. [Nagłówki](#nagłówki)
+1. [Nagłówki](#naglowki)
 2. [Formatowanie tekstu](#formatowanie-tekstu)
 3. [Listy](#listy)
 4. [Linki i obrazy](#linki-i-obrazy)
@@ -49,7 +48,7 @@ Tekst może być formatowany na różne sposoby:
 ## 🔗 Linki i obrazy
 
 **Przykładowy link:**  
-[Kliknij tutaj, aby odwiedzić stronę GitHub](https://github.com)
+[GitHub](https://github.com)
 
 **Przykładowy obrazek:**  
 ![kot](https://i.imgur.com/e9qWzqL.jpeg)
@@ -68,8 +67,3 @@ lista = [1, 2, 3, 4, 5]
 wynik = suma_liczb(lista)
 
 print(f"Suma liczb: {wynik}")
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Nie wybrano pliku
-Attach files by dragging & dropping, selecting or pasting them.
-Editing Fanatyx/README.md at main · Faanatix/Fanatyx
