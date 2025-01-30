@@ -10,12 +10,12 @@
 
 ## Nagłówki
 
-# To jest nagłówek 1
-## To jest nagłówek 2
-### To jest nagłówek 3
-#### To jest nagłówek 4
-##### To jest nagłówek 5
-###### To jest nagłówek 6
+# nagłówek 1
+## nagłówek 2
+### nagłówek 3
+#### nagłówek 4
+##### nagłówek 5
+###### nagłówek 6
 
 ---
 
@@ -48,9 +48,9 @@ Tekst może być formatowany na różne sposoby:
 ## Linki i obrazy
 
 **Przykładowy link:**  
-[Kliknij tutaj, aby odwiedzić stronę GitHub](https://github.com)
+[ GitHub](https://github.com)
 
-**Przykładowy obrazek:**  
+**ObbrazKota:**  
 ![kot](https://i.imgur.com/e9qWzqL.jpeg)
 
 ---
