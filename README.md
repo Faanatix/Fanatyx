@@ -1,6 +1,6 @@
-# Test
+# 🌟 Przykładowy README
 
-Przykładowy plik README
+Prosty plik README prezentujący podstawowe formatowanie w Markdown.
 
 ## 📚 Spis treści
 
@@ -14,49 +14,60 @@ Przykładowy plik README
 
 ## 🏷 Nagłówki
 
-# Nagłówek 1
-## Nagłówek 2
-### Nagłówek 3
-#### Nagłówek 4
-##### Nagłówek 5
-###### Nagłówek 6
+# To jest nagłówek 1
+## To jest nagłówek 2
+### To jest nagłówek 3
+#### To jest nagłówek 4
+##### To jest nagłówek 5
+###### To jest nagłówek 6
 
 ---
 
 ## ✍️ Formatowanie tekstu
 
-Możesz formatować tekst w różny sposób:
+Tekst może być formatowany na różne sposoby:
 
-**Pogrubienie**, *Kursywa*, ~~Przekreślenie~~, **_Pogrubiona kursywa_**, a nawet `tekst w stylu kodu`.
+- **Pogrubienie** → `**Pogrubienie**`
+- *Kursywa* → `*Kursywa*`
+- ~~Przekreślenie~~ → `~~Przekreślenie~~`
+- **_Pogrubiona kursywa_** → `**_Pogrubiona kursywa_**`
+- `Kod w linii` → `` `Kod w linii` ``
 
 ---
 
 ## 📌 Listy
 
-**Listy uporządkowane:**
-1. Pierwszy element
-2. Drugi element
+**Lista uporządkowana:**
+1. Pierwszy punkt
+2. Drugi punkt
+3. Trzeci punkt
 
-**Listy nieuporządkowane:**
-- Pierwszy element
-- Drugi element
+**Lista nieuporządkowana:**
+- Element A
+- Element B
+- Element C
 
 ---
 
 ## 🔗 Linki i obrazy
 
-**Link do GitHuba:**  
-[Odwiedź GitHub](https://github.com)
+**Przykładowy link:**  
+[Kliknij tutaj, aby odwiedzić stronę GitHub](https://github.com)
 
-**Obrazek:**  
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+**Przykładowy obrazek:**  
+![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ---
 
 ## 💻 Kod
 
-### Blok kodu (Python):
+### Fragment kodu w Pythonie:
 
 ```python
-def greet(name):
-    print(f"Hello, {name}!")
+def suma_liczb(liczby):
+    return sum(liczby)
+
+lista = [1, 2, 3, 4, 5]
+wynik = suma_liczb(lista)
+
+print(f"Suma liczb: {wynik}")
