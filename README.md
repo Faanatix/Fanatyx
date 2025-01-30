@@ -1,4 +1,4 @@
-## 📚 Spis treści
+## Spis treści
 
 1. [Nagłówki](#naglowki)
 2. [Formatowanie tekstu](#formatowanie-tekstu)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🏷 Nagłówki
+## Nagłówki
 
 # To jest nagłówek 1
 ## To jest nagłówek 2
@@ -19,7 +19,7 @@
 
 ---
 
-## ✍️ Formatowanie tekstu
+## Formatowanie tekstu
 
 Tekst może być formatowany na różne sposoby:
 
@@ -31,7 +31,7 @@ Tekst może być formatowany na różne sposoby:
 
 ---
 
-## 📌 Listy
+## Listy
 
 **Lista uporządkowana:**
 1. Pierwszy punkt
@@ -45,17 +45,17 @@ Tekst może być formatowany na różne sposoby:
 
 ---
 
-## 🔗 Linki i obrazy
+## Linki i obrazy
 
 **Przykładowy link:**  
-[GitHub](https://github.com)
+[Kliknij tutaj, aby odwiedzić stronę GitHub](https://github.com)
 
 **Przykładowy obrazek:**  
 ![kot](https://i.imgur.com/e9qWzqL.jpeg)
 
 ---
 
-## 💻 Kod
+## Kod
 
 ### Fragment kodu w Pythonie:
 
