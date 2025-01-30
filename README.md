@@ -1,2 +1,62 @@
-# Fanatyx
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+# Test
+
+Przykładowy plik README
+
+## 📚 Spis treści
+
+1. [Nagłówki](#nagłówki)
+2. [Formatowanie tekstu](#formatowanie-tekstu)
+3. [Listy](#listy)
+4. [Linki i obrazy](#linki-i-obrazy)
+5. [Kod](#kod)
+
+---
+
+## 🏷 Nagłówki
+
+# Nagłówek 1
+## Nagłówek 2
+### Nagłówek 3
+#### Nagłówek 4
+##### Nagłówek 5
+###### Nagłówek 6
+
+---
+
+## ✍️ Formatowanie tekstu
+
+Możesz formatować tekst w różny sposób:
+
+**Pogrubienie**, *Kursywa*, ~~Przekreślenie~~, **_Pogrubiona kursywa_**, a nawet `tekst w stylu kodu`.
+
+---
+
+## 📌 Listy
+
+**Listy uporządkowane:**
+1. Pierwszy element
+2. Drugi element
+
+**Listy nieuporządkowane:**
+- Pierwszy element
+- Drugi element
+
+---
+
+## 🔗 Linki i obrazy
+
+**Link do GitHuba:**  
+[Odwiedź GitHub](https://github.com)
+
+**Obrazek:**  
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+---
+
+## 💻 Kod
+
+### Blok kodu (Python):
+
+```python
+def greet(name):
+    print(f"Hello, {name}!")
